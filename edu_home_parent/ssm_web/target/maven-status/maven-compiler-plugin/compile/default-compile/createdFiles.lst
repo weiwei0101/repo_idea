@@ -1,0 +1,10 @@
+com\wei\controller\CourseContentController.class
+com\wei\controller\UserController.class
+com\wei\controller\RoleController.class
+com\wei\controller\CourseController.class
+com\wei\controller\PromotionSpaceController.class
+com\wei\controller\ResourceCategoryController.class
+com\wei\controller\MenuController.class
+com\wei\controller\TestController.class
+com\wei\controller\PromotionAdController.class
+com\wei\controller\ResourceController.class
